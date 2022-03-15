@@ -1,0 +1,61 @@
+/*contributeur-->Bacar Mahamoud Abdou*/
+
+/*les balises p contenu dans body*/
+body p[class="text"]{
+    border-style: solid;
+}
+
+/*tout les h2 descendant de body*/
+body h3{
+    background-color: darkblue; /*titre niveau 1 et 2, couleur bleu noircit pour l'arrière plan*/
+}
+
+/*tout les div contenu dans body*/
+body div{
+    border-style: solid; /*style du cadre: rempli*/
+    border-width: 1px; /*épaisseur cadre de 1px*/
+    text-align: center; /*texte centré*/
+}
+
+/*tout les paragraphe descendant d'une division*/
+div p{
+    color: darkgreen; /*couleur de p dans les div : vert foncé*/
+}
+
+/*tout les titres de niveau 3 dans une balise div*/
+div h3{
+    color: lime; /*couleur du texte: vert fluo*/
+    text-align: center; /*texte centré*/
+    border-style: solid; /*style du cadre: rempli*/
+    border-color: aqua; /*couleur du cadre: aqua*/
+}
+
+/*tout les listes non ordonnées*/
+ul{
+    border-style: solid; /*style rempli*/
+    border-color: black; /*couleur foncée*/
+}
+
+/*le premier enfant d'une liste non ordonnée*/
+ul:first-child{
+    color: darkred; /*premier enfant de ul en rouge foncé*/
+}
+
+/*les item li à côté d'autres items li*/
+li + li{
+    color: indigo; /*couleur indigo*/
+}
+
+/*la premier lettre de de toutes les listes*/
+li::first-letter{
+    font-size: 2em; /*première lettre des itemes de liste de valeur 2 em*/
+    color: brown; /*couleur de la première lettre: marron*/
+    background-color: chocolate; /*couleur arrière plan de la première lettre : chocolat*/
+}
+
+/*tout les images*/
+img{
+    width: 150px; /*taille des image : 150px*/
+    height : 100px; /*hauteur des image : 100px*/
+}
+

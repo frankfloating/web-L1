@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE auteur SYSTEM "auteurs.dtd">
+<!--contributeur : frank leggett-->
+<auteur id="acc-a">
+    <nom id="acc-n">Arthur C. Clarke</nom>
+    <quelques_oeuvres id="acc-o">
+        <titre id="acc-o1-t">Rendez-vous avec Rama</titre>
+        <odate id="acc-o1-d">1973</odate>
+        <resume id="acc-o1-r">
+            Un cylindre géant entre dans notre système solaire. Un groupe d'explorateur est envoyé pour sonder l'intérieur, mais ne trouve aucune vie. Seul des automates s'y trouve...
+        </resume>
+        <titre id="acc-o2-t">Childhood's end</titre>
+        <odate id="acc-o2-d">1953</odate>
+        <resume id="acc-o2-r">
+            Des extraterrestre font leurs apparitions sur terre, ils ont l'apparence de demons. Ils se nomment comme seigneurs de la planète, mais laissent les humains continuer leurs affaires. Seulement, plus d'un siècle après leur apparition, les enfants humains évoluent en un esprit collectif pour rejoindre le seigneur des esprits. Ce dernier est un esprit collectif, les seigneurs étant leurs vassaux. Homo sapiens sapiens cesse d'exister.
+        </resume>
+    </quelques_oeuvres>
+    <biographie id="acc-b">
+        <bdates id="acc-b-b">née 16 décembre 1917</bdates>
+        <bdates id="acc-b-d">mort 19 mars 2008</bdates>
+        Auditeur pour le gouvernement britannique de 1936 à 1941, il devient instructeur radar durant la seconde guerre mondiale. Vendant ses histoires courtes dès 1946 à des magazines de sciences-fictions, il obtient une licence en sciences de King's College. Il écrit le script pour 2001, l'Odyssée de l'espace et en 1969, il entérine sa réputation en commentant l'atterrissage lunaire en 1969. Il meurt à Colombo au Sri-Lanka.
+    </biographie>
+    <source id="acc-s">
+        Britannica online encyclopedia
+    </source>
+    <image src="acc1.jpg" alt="By ITU Pictures - https://www.flickr.com/photos/itupictures/16636142906, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=64344486"/>
+    <image src="acc2.jpg" alt="By en:User:Mamyjomarash (Amy Marash) - en:Image:Clarke sm.jpg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3736477"/>
+</auteur>

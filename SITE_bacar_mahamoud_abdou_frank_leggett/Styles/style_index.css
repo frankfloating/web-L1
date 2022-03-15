@@ -1,0 +1,49 @@
+/*contributeur: frank leggett*/
+
+/*tout les éléments body*/
+
+body{
+    background-color: lemonchiffon;
+}
+
+/*h1 premier enfant de body et h2*/
+
+h1:first-child,h2{
+    text-align: center; /*aligner text au centre*/
+}
+
+/*première lettre de h1*/
+
+h1:first-letter{
+    color: darkmagenta;
+}
+
+/*p enfant de div*/
+
+div>p{
+    font-size: 200%; /*augmenter taille police de 200%*/
+    color: black; /*couleur du text*/
+}
+
+/*tout les input ayant l'attribut type = image*/
+
+input[type="image"]{
+    width: 300px; /*longueur à 300 pixels*/
+    height: 200px; /*hauteur à 200 pixels*/
+    float: left; /*position où l'élément se trouve, ici à gauche*/
+}
+
+/*tout les inputs images ayant la souris placé au dessus*/
+
+input[type="image"]:hover{
+    width: 500px; /*longueur à 500 pixels*/
+    height: 400px; /*hauteur à 400 pixels*/
+}
+
+/*input ayant attribut id unique*/
+
+input[id="ind-b-f-1-inp"], input[id="ind-b-f-1-bis-inp"]{
+    background-color: black; /*couleur de l'arrière plan de l'élément seul*/
+    color: white; /*couleur du text de l'élément*/
+}
+

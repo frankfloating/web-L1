@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE auteur SYSTEM "auteurs.dtd">
+
+<auteur id="na-a">
+    <nom id="na-n">Nassur Attoumani</nom>
+    <citation id="na-c">“Dans un foyer, toutes les grandes décisions doivent être prises par la femme et toutes les dépenses faites par le mari. C’est ça, la vraie égalité.”</citation>
+    <mouvement_litteraire mouv="na-mouv">Le Nouveau Roman (XXeme siecle)</mouvement_litteraire>
+    <quelques_oeuvres id="na-o">
+        <titre id="na-o1-lfdp">La fille du polygamme</titre>
+        <odate id="na-o1-d">1974</odate>
+        <resume id="na-01-r">
+            Une fille peu instruite, pleine de volonté, va tout chambouler dans sa vie et celle de ses parents.
+            Pleinement amoureuse d'un etranger, Fatiha Bahouili, epouse cet homme contre le gré de ses parents.
+            Ici, le lecteur est au centre de la piece. tout est expose : l'immigration clandestine, la justice française, l'eternel machisme....
+        </resume>
+        <titre id="na-o2-trmmv">Tonton Rend Moi Ma Virginité</titre>
+        <odate id="na-o2-d">2015</odate>
+        <resume id="na-02-r">
+            l'histoire debute dans un contexte à la brousse mahoraise. Une petite fille qui venait de fêter ses 10 ans, perd son pere quelques jours plus tard. Elle est faite orpheline du jour au lendemain, tandis qu'elle ne quittait jamais son père.
+            Cette disparution lui est tellement insupportable, invivable qu'elle ne quitte presque jamais la chambre de sa mère. Un jour, elle surprend une conversation qui va chambouler toute sa vie.
+            "Peut-il y avoir une simillitude entre une vieille voiture et une jeune fille violée ?".
+        </resume>
+    </quelques_oeuvres>
+    <biographie id="na-b">
+        <bdates id="na-dn">3 mai 2000</bdates>
+
+            Ne à Moroni ( COMORES ), il est un dramaturge, un ecrivain et musicien français residant a Mayotte.
+            Il etudiera au Comores avant de pouvoir faire ses annees college à Mayotte. Il etudiera au college de Dzaoudzi ( petit-terre ).
+            Il repartira ensuite à Moroni pour le lycée ( Saïd-Mohamed6cheik ). Lorsque les Comores font la demande de leur independance, les lyceens sont envoyés à la Reunion.
+            Il sera donc, etudiant au lycée Rolland-Garros où il decrochera un bac littéraire. en 1977, il va faire des études d'anglais à l' U.E.R d'Orléans.
+            A l'obtention de son diplôme, il retourne à Mayotte, en 1983, pour enseigner le français et l'anglais au collège.
+            Vers les années 2002, il organise des échanges entres les services culturels de Moroni et de sa région ( Sada ), où il est directeur de ma MJC ( maison des jeunes et des cultures).
+            Il y découvrit la plupart de ses vocations musicales et littéraires aux alentours des années 80. Son premier sketch lui sera inspiré par la perte d'un membre de son groupe de musique quand un accident de voiture.
+            Son objectif, denoncer les mefaits, les agissement, en mal, de la société mahoraise. En amoureux des arts, il se poduira sur la scene avec des themes théâtrales qui rassemblent humour et satire sur un fond musical.
+            " La Fille Du Polygame " verra le jour en 1989. Ses oeuvres étant toujours engagés, ils traitent des sujet dites " controversés, tel que la polygamie, le viol ou encore l'inceste.
+
+    </biographie>
+    <image src="/Images/na1.jpg" alt="https://revueprojectiles.files.wordpress.com/2019/11/nasattoumani1.jpg"/>
+</auteur>

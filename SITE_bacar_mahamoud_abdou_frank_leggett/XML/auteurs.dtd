@@ -1,0 +1,67 @@
+<!--contributeurs : Bacar Mahamoud Abdou, Frank Leggett-->
+
+<!ELEMENT auteur (nom, citation?, mouvement_litteraire?, quelques_oeuvres, biographie, source, image*)>
+<!ATTLIST auteur
+    id ID #REQUIRED>
+
+<!ELEMENT nom (#PCDATA)>
+<!ATTLIST nom
+    id ID #REQUIRED>
+
+<!ELEMENT citation (#PCDATA)>
+<!ATTLIST citation
+    id ID #REQUIRED>
+
+<!ELEMENT mouvement_litteraire (#PCDATA)>
+<!ATTLIST mouvement_litteraire
+    mouv CDATA #REQUIRED
+    siecle CDATA #IMPLIED>
+
+<!ELEMENT quelques_oeuvres (titre, odate, resume)+>
+<!ATTLIST quelques_oeuvres
+    id ID #REQUIRED>
+
+<!ELEMENT titre (#PCDATA)>
+<!ATTLIST titre
+    id ID #REQUIRED>
+
+<!ELEMENT odate (#PCDATA)>
+<!ATTLIST odate
+    id ID #REQUIRED>
+
+<!ELEMENT resume (#PCDATA)>
+<!ATTLIST resume
+    id ID #REQUIRED>
+
+<!ELEMENT biographie (bdates+|#PCDATA)>
+<!ATTLIST biographie
+    id ID #REQUIRED>
+
+<!ELEMENT bdates (#PCDATA)>
+<!ATTLIST bdates
+    id ID #REQUIRED>
+
+<!ELEMENT source (#PCDATA)>
+<!ATTLIST source
+    id ID #REQUIRED>
+
+<!ELEMENT image EMPTY>
+<!ATTLIST image
+    src CDATA #REQUIRED
+    alt CDATA #REQUIRED
+    ref CDATA #IMPLIED>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

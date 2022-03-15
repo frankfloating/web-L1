@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE auteur SYSTEM "auteurs.dtd">
+
+<!--Contributeur : Bacar MAHAMOUD ABDOU -->
+
+<auteur id="vh-a">
+    <nom id="vh-n">Victor Hugo</nom>
+    <citation id="vh-c">
+        “Detruire la misere ! Oui, cela est possible. Les législateur et les gouvernants doivent y songer sans cesse;
+        car, en pareille matiere, tant que le possible n'est pas fait, le devoir n'est pas rempli.”
+
+        "Je donne cinquante mille francs aux pauvres.
+        Je desire etre porte au cimetiere avec leur corbillard.
+        Je refuse l'oraison de toutes les eglises; je demande une priere àa toutes les ames.
+        Je crois en Dieu"
+
+        "Tout parle. Et maintenant, homme, sais-tu pourquoi
+        Tout parles ? Ecoute bien. C'est que vents, ondes, flammes ,
+        Arbres, roseaux, rochers, tout vit !
+        Tout est plein d'ames."
+    </citation>
+    <mouvement_litteraire mouv="vh-mouv">Romantisme français</mouvement_litteraire>
+    <quelques_oeuvres id="vh-o">
+        <titre id="vh-o1-con">Les Contemplations</titre>
+        <odate id="vh-o1-d"> 1856</odate>
+        <resume id="vh-o1-r">
+            " Les contemplations " est un recueil de poeme divisé en deux groupe qui sont: Autrefois (1830 - 1843) et Aujourd'hui (1843 - 1855).
+            Cela est un recueil, dit, du souvenir, de l'amour, de la joie mais aussi de la mort, du deuil et même d'une certaine foi mystique.
+            Ce recueil est eglement un hommage a sa fille Leopoldine Hugo, morte noyée dans la Seine à Villequier.
+            Chaque partie contient, respectivement, trois chapitres.
+        </resume>
+        <titre id="vh-o2-pm">Pauca Meae</titre>
+        <odate id="vh-o2-d">1856</odate>
+        <resume id="vh-o2-r">
+            Pauca meae est le livre IV des " Contemplation ", écrit par Victor Hugo après la mort de sa fille Léopoldine.
+            Le titre se traduit par (quelque mots à ma fille).
+            On y trouve en particulier le poème, célébre, ["Pure innocence! Vertu sainte..., 15 février 1843, 4 septembre 1843.....Demain dès l'aube, Mors, Charles Vacquerie"].
+        </resume>
+        <titre id="vh-o3-dda">Demain Dès L'Aube</titre>
+        <odate id="vh-o3-d">1856</odate>
+        <resume id="vh-o3-r">
+            Composé de trois quatrins d'alexandrins en rimes croisées, ce court poème n'a pas de titre.
+            De ce fait, on le surnomme par son incipit. C'est les premiers mots qui le composent.
+            Il est celui-ci, le XIVeme poeme de Pauca Meae, le livre quatre des contemplations dans la seconde partie intitulée "Aujourd'hui 1843 - 1855".
+            Le poeme est écrit tel un discours entre le narrateur et un interlocuteur inconnus, lui racontant à la premiere personne et au futur;
+            comment il compte partir le lendemain dès l'aube et sans jamais être distrait par son environnement.
+            Il s'y rendra en marchand à travers la campagne pour le rejoindre. Ce voyage s'avère être plus tragique que prévu, puisque le poème revele que cette personne chère est en faite morte.
+            le narrateur se rend au cimetière pour fleurir sa tombe.
+        </resume>
+    </quelques_oeuvres>
+    <biographie id="vh-b">
+        <bdates id="vh-bd-n">né le 26 fev. 1802</bdates>
+        <bdates id="vh-bd-d">mort le 22 mai 1885</bdates>
+        Victor hugo, de son vrai nom Victor Marie Hugo, est un poète, dramaturge, écrivain, dessinateur romantique français et romancier.
+        Il est, pour le monde, l'un des plus importants écrivains de la langue française. Il occupera une place des plus important dans l'histoire des lettres françaises au XIX siecle.
+        Son oeuvre poétique comprends de nombreuses recueils de poemes lyriques. Il est également le poète engagé contre Napoléon III dans " Les Châtiments ", paru en 1853.
+        Il est un poète épique dans "La Légende Des Siècles ", paru entre 1859 et 83.
+        Il a rencontré un grand succès populaire comme romancier, d'abord avec "Notre-Dame De Paris " en 81 et encore plus encore avec " Les Misérables " en 1862.
+        Ayant fortement contribué au changement et à l'amélioration de la poésie et du théâtre et, de plus, ayant marqué son époque par ses prises de position politiques sociale;
+        Victor Hugo est encore célébré aujourd'hui, en France et à l'etrangers. Il est représenté tel un personnage illustre, dont la vie et l'oeuvre ont fait l'objet de nombreuses commentaires et hommages.
+    </biographie>
+    <image src="/Images/vh2.jpg" alt="https://www.edition-originale.com/media/h-3000-hugo_victor_les-contemplations_1856_edition-originale_2_46254.JPG"/>
+</auteur>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE auteur SYSTEM "auteurs.dtd">
+<!--contributeur : frank leggett-->
+<auteur id="uklg-a">
+    <nom id="uklg-n">Ursula Kroeber Le Guin</nom>
+    <citation id="uklg-c">“What sane person could live in this world and not be crazy?”</citation>
+    <mouvement_litteraire mouv="contemp">contemporain</mouvement_litteraire>
+    <quelques_oeuvres id="uklg-o">
+        <titre id="uklg-o1-t">Les Dépossédés</titre>
+        <odate id="uklg-o1-d">1974</odate>
+        <resume id="uklg-o1-r">Shevek, physicien de la lune Annares, se heurte à des obstacles en présentant ses idées. Cependant, Annares est une société anarchiste, le scientifique cherche alors à exposer ses idées au monde extérieur.</resume>
+        <titre id="uklg-o2-t">La main gauche de la nuit</titre>
+        <odate id="uklg-o2-d">1969</odate>
+        <resume id="uklg-o2-r">Genly Aï, diplomate, est envoyé sur Nivôse pour convaincre la planète de rejoindre l'alliance interplanétaire. Mais le gouvernement auquel il a affaire, est antagoniste à cette idée. Il voyage alors à travers la planète d'être androgyne. </resume>
+    </quelques_oeuvres>
+    <biographie id="uklg-b">
+        <bdates id="uklg-bd-n">née 21 octobre 1929</bdates>
+        <bdates id="uklg-bd-d">mort 22 janvier 2018</bdates>
+        née d'un anthropologue célèbre, elle fait ses études à Radcliff College puis Columbia University. Elle publie son premier roman en 1966: le monde de Rocannon. Elle utilise l'anthropologie dans ses travaux.
+    </biographie>
+    <source id="uklg-s">
+        Britannica online encyclopedia
+    </source>
+    <image src="uklg1.jpg" alt="By Gorthian - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31670340"/>
+</auteur>

@@ -1,0 +1,59 @@
+/*contributeur: frank leggett*/
+
+/*tout le body*/
+
+body{
+    background-color: white; /*couleur d'arrière plan en blanc*/
+    color: black; /*couleur du text en noire*/
+}
+
+/*tout les éléments h1,h2,h3*/
+
+h1,h2,h3{
+    text-align: center; /*alignement du text au centre*/
+}
+
+/*tout élément ayant attribut class de valeur text*/
+
+.text{
+    font-size: 2em; /*taille texte de valeur 2 em*/
+    outline: black solid; /*cadre du text en noire de style plein*/
+}
+
+
+/*class de valeur text ayant la souris au dessus*/
+
+.text:hover{
+    voice-family: neutral; /*voix neutre*/
+    speech-rate: slow; /*cadence de parole lente*/
+    pause-after: medium; /*pause après parole de durée moyenne*/
+    border: red solid; /*bordure couleur rouge de style plein*/
+    outline: red solid; /*cadre couleur rouge de style plein*/
+}
+
+/*tout les img ainsi que tout les input de type image*/
+
+img,input[type="image"]{
+    width: 900px; /*longueur de 900 pixels*/
+    height: 600px; /*hauteur de 600 pixels*/
+}
+
+/*tout les inputs de type submit*/
+
+input[type="submit"]{
+    width: 15em; /*longueur de 15 em*/
+    height: 6em; /*hauteur de 6 em*/
+    font-size: 2em; /*taille texte de 2em*/
+    background-color: white; /*couleur arrière plan blanc*/
+    color: black; /*couleur texte noire*/
+}
+
+/*input ayant la souris dessus*/
+
+input:hover{
+    border: blue solid; /*bordure couleur bleue style plein*/
+    outline: blue solid; /*cadre couleur bleue style plein*/
+}
+
+
+
